@@ -1,3 +1,5 @@
-class FancyDance
-  include Dance
+module FancyDance
+  moodule InstanceMethods
+  
+  
 end
